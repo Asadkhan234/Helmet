@@ -1,7 +1,6 @@
 streamlit
-numpy>=1.26,<2.4
-opencv-python
-pillow
 torch
+opencv-python
 ultralytics
-
+Pillow
+numpy
